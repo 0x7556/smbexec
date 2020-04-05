@@ -15,4 +15,4 @@ SmbExec 10.1.1.10 Administrator 123456 whoami
 SmbExec 10.1.1.10 Administrator 123456 whoami user
 ```
 
-![img](https://github.com/0x7556/smbexec/blob/master/smbexec.PN1G)
+![image](https://github.com/0x7556/smbexec/blob/master/smbexec.PNG)
