@@ -1,6 +1,6 @@
 # smbexec
 
-SMB remote execution command
+AtExec SMB remote execution command (using SCHTASKS) 
 
 ### Usage
 ```Bash
