@@ -20,7 +20,7 @@ SmbExec 10.1.1.10 Administrator 123456 b64cmd d2hvYW1p
 SmbExec 10.1.1.10 Administrator 123456 b64cmd d2hvYW1p user
 ```
 ### 2.0
-![image](https://github.com/0x7556/smbexec/blob/master/smbexec.PNG)
+![image](https://github.com/0x7556/smbexec/blob/master/SmbExec2.png)
 
 ### 1.0
 ![image](https://github.com/0x7556/smbexec/blob/master/smbexec.PNG)
