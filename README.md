@@ -19,8 +19,8 @@ SmbExec 10.1.1.10 Administrator 123456 whoami user
 SmbExec 10.1.1.10 Administrator 123456 b64cmd d2hvYW1p
 SmbExec 10.1.1.10 Administrator 123456 b64cmd d2hvYW1p user
 ```
-### 2.0
+### 2.0 SmbInfo & base64cmd
 ![image](https://github.com/0x7556/smbexec/blob/master/SmbExec2.png)
 
-### 1.0
+### 1.0 Only cmd
 ![image](https://github.com/0x7556/smbexec/blob/master/smbexec.PNG)
